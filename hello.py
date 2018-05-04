@@ -1,2 +1,3 @@
 #add cofing:utf-8
-hello python
+#1/usr/bin/env python
+print('hello, world.')
